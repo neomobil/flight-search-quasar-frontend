@@ -1,6 +1,10 @@
-# Neomobil Flights (neomobil-flights)
+# Search Flights with stops
 
-Search flights with stops
+PWA based on Quasar Framework (VueJs) for searching flights with an optional stop.
+
+Check the related backend packages:
+
+- https://github.com/neomobil/flights-search-lumen-api
 
 ## Install the dependencies
 ```bash
@@ -21,6 +25,3 @@ yarn run lint
 ```bash
 quasar build
 ```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
